@@ -1,7 +1,0 @@
-﻿  stdafx.cpp
-  zadanie2.cpp
-e:\programowanie\opengl\zajecia2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(78): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-e:\programowanie\opengl\zajecia2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(79): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-e:\programowanie\opengl\zajecia2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(102): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-e:\programowanie\opengl\zajecia2\zadanie2\zadanie2\zadanie2\zadanie2.cpp(103): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  zadanie2.vcxproj -> E:\programowanie\opengl\zajecia2\zadanie2\zadanie2\Debug\zadanie2.exe

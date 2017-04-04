@@ -1,4 +1,0 @@
-﻿  zadanie.cpp
-e:\programowanie\opengl\zadanie\zadanie\zadanie.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-e:\programowanie\opengl\zadanie\zadanie\zadanie.cpp(45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-  zadanie.vcxproj -> E:\programowanie\opengl\zadanie\Debug\zadanie.exe

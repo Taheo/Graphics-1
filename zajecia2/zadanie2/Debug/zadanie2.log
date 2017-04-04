@@ -1,4 +1,0 @@
-﻿  zadanie2.cpp
-e:\programowanie\opengl\zadanie2\zadanie2\zadanie2.cpp(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-e:\programowanie\opengl\zadanie2\zadanie2\zadanie2.cpp(132): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  zadanie2.vcxproj -> E:\programowanie\opengl\zadanie2\Debug\zadanie2.exe

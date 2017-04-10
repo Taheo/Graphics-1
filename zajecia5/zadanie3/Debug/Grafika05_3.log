@@ -1,0 +1,135 @@
+﻿  Source.cpp
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(17): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(17): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(22): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(27): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(27): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(41): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(41): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(46): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(46): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(60): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(60): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(65): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(65): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(79): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(79): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(84): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(84): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(86): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(93): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(93): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(98): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(103): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(103): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(112): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(112): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(117): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(117): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(122): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(122): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(124): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(131): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(131): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(136): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(136): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(141): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(141): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(150): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(150): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(155): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(155): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(160): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(160): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(162): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(169): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(169): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(174): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(174): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(179): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(179): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(181): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(188): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(188): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(193): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(193): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(198): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(198): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(200): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(207): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(207): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(212): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(212): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(217): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(217): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(219): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(226): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(226): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(231): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(231): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(236): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(236): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(238): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(245): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(245): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(250): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(250): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(255): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(255): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(257): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(264): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(264): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(269): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(269): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(274): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(274): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(276): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(283): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(283): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(288): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(288): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(293): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(293): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(302): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(302): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(307): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(307): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(312): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(312): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(314): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(321): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(321): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(326): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(326): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(331): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(331): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(333): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(345): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(345): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(359): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(359): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(364): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(364): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\materials.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(109): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(109): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(368): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(373): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(434): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\nerexus\documents\visual studio 2015\projects\grafika_05\grafika05_3\source.cpp(436): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  Grafika05_3.vcxproj -> c:\users\nerexus\documents\visual studio 2015\Projects\Grafika_05\Debug\Grafika05_3.exe
+  Grafika05_3.vcxproj -> c:\users\nerexus\documents\visual studio 2015\Projects\Grafika_05\Debug\Grafika05_3.pdb (Partial PDB)

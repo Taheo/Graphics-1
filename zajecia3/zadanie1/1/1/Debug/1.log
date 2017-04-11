@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  1.cpp
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(45): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(148): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(153): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(214): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia3\zadanie1\1\1\1.cpp(220): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  1.vcxproj -> E:\programowanie\opengl\zajecia3\zadanie1\1\Debug\1.exe

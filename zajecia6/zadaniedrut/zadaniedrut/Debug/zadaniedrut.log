@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  zadaniedrut.cpp
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(83): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(86): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(90): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(94): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(98): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(102): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(106): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(110): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(114): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(126): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(130): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(134): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(138): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(262): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(408): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(417): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(527): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\programowanie\opengl\zajecia6\zadaniedrut\zadaniedrut\zadaniedrut.cpp(531): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  zadaniedrut.vcxproj -> E:\programowanie\opengl\zajecia6\zadaniedrut\Debug\zadaniedrut.exe

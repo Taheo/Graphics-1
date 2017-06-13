@@ -1,0 +1,37 @@
+﻿  stdafx.cpp
+  zadani11.cpp
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(77): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(77): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(79): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(79): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(93): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(93): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(95): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(97): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(99): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(214): warning C4305: '=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(216): warning C4305: '=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(218): warning C4305: '=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(230): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(428): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(430): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(432): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(434): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(444): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(454): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(470): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(472): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(474): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(488): warning C4305: '+=': truncation from 'double' to 'float'
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(509): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(509): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+e:\programowanie\opengl\zadani11\zadani11\zadani11.cpp(585): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zadani11.vcxproj -> E:\programowanie\opengl\zadani11\Debug\zadani11.exe
